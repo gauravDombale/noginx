@@ -2,10 +2,6 @@
 
 A real-time NGINX anomaly detection and alert system.
 
-**Demo video**
-
-[demo_vid](https://github.com/user-attachments/assets/12cd769f-bc5b-4431-8f81-14718dbf2cec)
-
 # Steps to Run noginx
 - Make sure you have NGINX installed
 - It will automatically capture logs from "/var/log/nginx/access.log", this is where Unix stores its NGINX logs.
